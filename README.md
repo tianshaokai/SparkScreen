@@ -4,4 +4,4 @@
 <img src="/ScreenShot/1.png" width="200" height="300"/>
 
 ## 感谢
-[原作者库版本]("https://github.com/a396901990/SparkScreen")
+[原作者库版本](https://github.com/a396901990/SparkScreen)
